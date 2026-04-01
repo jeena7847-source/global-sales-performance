@@ -27,3 +27,6 @@ This project provides a comprehensive analysis of global sales performance using
 1.  **Dashboard:** View the `BI-Dashboard.png` above for a quick snapshot.
 2.  **Analysis:** Open `data_analytics.ipynb` directly in GitHub to see the Python code and visualizations.
 3.  **Raw Data:** SQL queries are available in the `sales data sql.sql` file for database implementation.
+
+   author:D.Jeena
+   
