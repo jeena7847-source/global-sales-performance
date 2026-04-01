@@ -6,7 +6,7 @@
 This project provides a comprehensive analysis of global sales performance using a combination of SQL for data extraction, Python for advanced analytics, and Power BI for interactive visualization. The goal is to identify key sales trends, regional performance gaps, and marketing ROI.
 
 ## 🛠️ Tech Stack
-* **Data Analysis:** Python (Pandas, Matplotlib/Seaborn)
+* **Data Analysis:** Python (Pandas, Matplotlib)
 * **Database:** SQL (Data cleaning and aggregation)
 * **Visualization:** Power BI
 * **Data Source:** `marketing_sales_dataset.xlsm`
