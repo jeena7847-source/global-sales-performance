@@ -29,4 +29,6 @@ This project provides a comprehensive analysis of global sales performance using
 3.  **Raw Data:** SQL queries are available in the `sales data sql.sql` file for database implementation.
 
    author:D.Jeena
+   WWW.linkedin.com/in/jeenad2004
+   
    
